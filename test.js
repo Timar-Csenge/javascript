@@ -3,5 +3,5 @@ console.log("hello world");
 console.log("az első javascript kódom");
 
 function kepBeilleszt() {
-    document.getElementById("image").innerHTML = "<img src='https://codingartistweb.com/wp-content/uploads/2022/07/day-night-01.png'>";
+    document.getElementById("image").innerHTML = "<img src='H:/2024-25/web/2024-25/25_01_28/javascript/gugya.jpg'>";
 }
